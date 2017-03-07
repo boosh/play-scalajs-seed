@@ -1,0 +1,2 @@
+# API routes
+#GET      /swagger.json                     controllers.ApiHelpController.getResources
